@@ -1,0 +1,23 @@
+---
+layout: post
+title: 2020-07-13-2020-11-45-Home-WiFi-Tips
+date: 2020-07-13 11:45:53 -0400
+tags: []
+---
+
+---
+title: "Home WiFi Tips"
+layout: post
+tags:
+---
+With everyone working from home, there are a lot of new challenges to that.  What kind of workspce do you have?  How do you manage all the technology to make it happen?   Luckily there isn't a lot of tech required any more, but some of that technology can be a bit tricky to manage.  One of the least looked at but most important pieces is your network connection.  "But Bill," you might say,"isn't that just a function of how much I pay to my service provider?"  In a way yes, but there can be things that make it much better.  One of those things is improving your Wifi experience at home.
+
+The majority of issues that I have seen in my career with work from home scenarios can be traced to bad wifi.  Wifi is a difficult thing to manage in the best of times, that is why most times we just are happy with a connection working at all. However, there are 3 things I can reccomend to all to improve your Wifi experience and make your work from home experience much better.  
+
+1) Do you have to be wireless?
+This is the biggest thing to make sure you are honest about.  Wifi is built for convenience not for performance. When we are working from home, the majority of tools we use, Zoom, Teams etc.  are built with a hardwire connection in mind.  For audio and video conferencing, the speed and reliability of a hardwire is the best of all worlds.  
+So if you can, hardwire your machine to your router.  Your speed and reliability will thank you.
+
+2) Where is your access point?
+
+3) How much is it worth to you?
