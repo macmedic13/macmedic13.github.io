@@ -4,8 +4,6 @@ title: Home-WiFi-Tips
 date: 2020-07-13 11:45:53 -0400
 tags: []
 ---
-
----
 title: "Home WiFi Tips"
 layout: post
 tags:
@@ -25,3 +23,5 @@ This goes back to the idea that Wifi is for convenience and not performance.  Th
 3) How much is it worth to you?
 
 This is the one that is often neglected.  Companies use to spend thousands of dollars making sure that the Wifi coverage is stable and throughout the work area.  In some cases, depending the construction of your home, it might require an investment of up to $500 for a quality router and repeaters to make Wifi at its best.
+
+Of course I am available if there are any questions and anyway that I can help, let me know.
