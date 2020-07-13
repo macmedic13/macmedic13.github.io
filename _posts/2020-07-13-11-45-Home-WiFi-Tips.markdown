@@ -10,18 +10,18 @@ title: "Home WiFi Tips"
 layout: post
 tags:
 ---
-With everyone working from home, there are a lot of new challenges to that.  What kind of workspce do you have?  How do you manage all the technology to make it happen?   Luckily there isn't a lot of tech required any more, but some of that technology can be a bit tricky to manage.  One of the least looked at but most important pieces is your network connection.  "But Bill," you might say,"isn't that just a function of how much I pay to my service provider?"  In a way yes, but there can be things that make it much better.  One of those things is improving your Wifi experience at home.
+With everyone working from home, there are a lot of new challenges to that.  What kind of workspace do you have?  How do you manage all the technology to make it happen?   Luckily there isn't a lot of tech required any more, but some of that technology can be a bit tricky to manage.  One of the least looked at but most important pieces is your network connection.  "But Bill," you might say,"isn't that just a function of how much I pay to my service provider?"  In a way yes, but there can be things that make it much better.  One of those things is improving your Wifi experience at home.
 
-The majority of issues that I have seen in my career with work from home scenarios can be traced to bad wifi.  Wifi is a difficult thing to manage in the best of times, that is why most times we just are happy with a connection working at all. However, there are 3 things I can reccomend to all to improve your Wifi experience and make your work from home experience much better.  
+The majority of issues that I have seen in my career with work from home scenarios can be traced too bad wifi.  Wifi is a difficult thing to manage in the best of times, that is why most times we just are happy with a connection working at all. However, there are 3 things I can recommend to all to improve your Wifi experience and make your work from home experience much better.  
 
 1) Do you have to be wireless?
-This is the biggest thing to make sure you are honest about.  Wifi is built for convenience not for performance. When we are working from home, the majority of tools we use, Zoom, Teams etc.  are built with a hardwire connection in mind.  For audio and video conferencing, the speed and reliability of a hardwire is the best of all worlds.  
+This is the biggest thing to make sure you are honest about.  Wifi is built for convenience not for performance. When we are working from home, the majority of tools we use, Zoom, Teams , etc.,  are built with a hardwire connection in mind.  For audio and video conferencing, the speed and reliability of a hardwire is the best of all worlds.  
 So if you can, hardwire your machine to your router.  Your speed and reliability will thank you.
 
 2) Where is your access point?
 
-This goes back to the idea that Wifi is for convenience and not performance.  The farther you are away from your access point the more chance that something will interfere.  This can be a lot of things, including your microwave.  Anything with electricity has the possibility of interfereing with your Wifi signal, so the closer you are to the source, the better it will be.  So if you have the option to be close to your router, it will help a lot.
+This goes back to the idea that Wifi is for convenience and not performance.  The farther you are away from your access point the more chance that something will interfere.  This can be a lot of things, including your microwave.  Anything with electricity has the possibility of interfering with your Wifi signal, so the closer you are to the source, the better it will be.  So if you have the option to be close to your router, it will help a lot.
 
 3) How much is it worth to you?
 
-This is the one that is often neglected.  Companies use to spend thousands of dollars making sure that the Wifi coverage is stable and trhoughout the work area.  In some cases, depend ing the construction of your home, it might require an investment of up to $500 for a quality router and repeaters to make Wifi at it's best. 
+This is the one that is often neglected.  Companies use to spend thousands of dollars making sure that the Wifi coverage is stable and throughout the work area.  In some cases, depending the construction of your home, it might require an investment of up to $500 for a quality router and repeaters to make Wifi at its best.
