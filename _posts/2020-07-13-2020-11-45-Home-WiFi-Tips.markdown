@@ -20,4 +20,6 @@ So if you can, hardwire your machine to your router.  Your speed and reliability
 
 2) Where is your access point?
 
+This goes back to the idea that Wifi
+
 3) How much is it worth to you?
