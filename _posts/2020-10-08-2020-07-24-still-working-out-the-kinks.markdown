@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020-07-24-still-working-out-the-kinks
+title: still-working-out-the-kinks
 date: 2020-10-08 17:09:53 -0400
 tags: []
 ---
