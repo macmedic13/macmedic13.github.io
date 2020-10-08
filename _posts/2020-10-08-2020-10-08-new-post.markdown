@@ -1,0 +1,14 @@
+---
+layout: post
+title: 2020-10-08-new-post
+date: 2020-10-08 17:25:50 -0400
+tags: []
+---
+
+---
+title: "New Post"
+layout: post
+tags: 
+---
+
+
