@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Learn by Doin"
+date: 2020-10-09 14:00:00 -0400
+tags: []
+---
+title: "Learn by Doin"
+layout: post
+tags:
+---
+I am a big believer in the idea of learn by doing.  Through out most of my career it is how I have continuously learned the technology that is out there.  Whether it is challenging myself to use AWS to host my blog, or figuring out how to host this blog again for little to no expense.  I have always enjoyed the challenge.
+
+So that is what this post is about.  I am trying a new way of blogging using the Jekyll framework and markdown to do it with Github. This has meant learning how to write in markdown (which I still suck at) and learning a new way to work.  So please stick with me as I figure it all out.  Thanks for your patience.  
+
+Any comments, hit me up on twitter.  Link is below.
