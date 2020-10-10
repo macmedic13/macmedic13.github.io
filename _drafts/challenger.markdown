@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Something to watch/ Challenger: The Final Flight"
+date: 2020-10-09 14:00:00 -0400
+tags: []
+---
+
+When I come across something that really impresses me in the streaming universe, I like to tell folks about it.  So this is what I hope will be a series of posts.  For the first one, it will be one of my favourite fields.  Space flight!
+
+Even though this is a sad story in the end, the exploration of the challenges and the stories around it are fascinating.  It shows where politics, and engineering conflicts.  What I found particularly fascinating was the conversations with the engineers involved in it.  This again just proves to me that schedules are a dangerous thing when you want to do it right.  
+
+In my learning of project management there are 3 things you get in every project which can make it difficult to succeed.  Scope, budget and schedule.  You can have 2, but not all three.  I am a believer in scope and schedule being changeable to bring about success.  
+
+While you are watching this ask yourself, how do you react when you see a problem?
+
+Check out "Challenger" on Netflix
+https://www.netflix.com/title/81012137?s=i&trkid=14170286
