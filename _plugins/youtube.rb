@@ -10,8 +10,6 @@
 #       <iframe width="640" height="480" src="//www.youtube.com/embed/Al9FOtZcadQ" allowfullscreen></iframe>
 #     </figure>
 #   </div>
-
-module Jekyll
   class Youtube < Liquid::Tag
     @url = nil
 
