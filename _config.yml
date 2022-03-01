@@ -31,6 +31,7 @@ github_username:  macmedic13
 theme: minima
 plugins:
   - jekyll-feed
+  - youtube.rb
 
 # Exclude from processing.
 # The following items will not be processed, by default.
