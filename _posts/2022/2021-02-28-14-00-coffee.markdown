@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coffee and Contemplation - February 28, 2022"
+title: Coffee and Contemplation - February 28, 2022
 date: 2022-02-28 14:00:00 -0400
 tags: []
 ---
