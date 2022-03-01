@@ -5,7 +5,7 @@ date: 2022-02-28 14:00:00 -0400
 tags: []
 ---
 
-Since I have decided to try and do a daily post here again, I wanted to make it a little more challenging and try to add a little piece of learning while I am at it.  So since I am hosting this somehere that allow me that, I wanted to learn some Markdown.  For those of you who don't know, think of Markdown as another way to write that some say is easier than HTML.  So here is how I am doing these posts.
+Since I have decided to try and do a daily post here again, I wanted to make it a little more challenging and try to add a little piece of learning while I am at it.  So since I am hosting this somewhere that allow me that, I wanted to learn some Markdown.  For those of you who don't know, think of Markdown as another way to write that some say is easier than HTML.  So here is how I am doing these posts.
 
 I am using my iPad Pro, which is my daily driver computer now for personal work.  In terms of Apps I am using working copy, which is a Github based app but has a text editor built in.  Simple enough.  I just use a Draft template and away I go.  I haven't started using all the tools available, but I am getting there in terms of just the basics.
 
