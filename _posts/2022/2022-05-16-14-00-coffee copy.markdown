@@ -5,7 +5,7 @@ date: 2022-05-16 14:00:00 -0400
 tags: []
 ---
 
-Back to writing everyday.  I should really listen to Yoda in these cases but, always trying to get better. So over the past few days I have been building a new desk setup.  It's funny, for years I haven't really cared all that much about my setup, but I think watching a few too many Youtuber's and streamers has got me feeling that I needed to step it up a notch.  So desk, Monitors arms and Smart Lighting have made a huge difference.  Now to get the Lighting setup and away we go.  
+Back to writing everyday.  I should really listen to Yoda in these cases but, always trying to get better. So over the past few days I have been building a new desk setup.  It's funny, for years I haven't really cared all that much about my setup, but I think watching a few too many streamers has got me feeling that I needed to step it up a notch.  So desk, Monitors arms and Smart Lighting have made a huge difference.  
 
 As for tech stuff at the moment.  Lot's of work at work to be up on, but some new technology that I have recently been finding interesting is really helping me.  I have taken a bit of a dive into VMware and virtualization. Setup an ESXi server on my old Mac Mini and away I go.  Biggest struggle has been managing the storage but I am learning and that is what is most important. Also Liverpool!!!
 
