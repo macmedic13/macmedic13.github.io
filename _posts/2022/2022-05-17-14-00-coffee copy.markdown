@@ -1,0 +1,8 @@
+---
+layout: post
+title: Coffee and Contemplation - May 17, 2022
+date: 2022-05-17 14:00:00 -0400
+tags: []
+---
+
+Well a day after Apple Updates.  Looks like a few nice things and some bad security bugs fixed.  The other release was the Platform Security Guide.  A long document but worth a cover to cover read.  So let's get to it.  Review some training and keep pushing along. Oh, and I hate Windows.
