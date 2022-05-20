@@ -1,0 +1,12 @@
+---
+layout: post
+title: Coffee and Contemplation - May 20, 2022
+date: 2022-05-20 14:00:00 -0400
+tags: []
+---
+
+Sorry about the late posts.  I was having a problem syncing my site to the Git to the repo.  Turns out that I had made all my email addresses private on Github and that caused the Git push to fail, so made the Emails public again an voila.
+
+Busy day of reading policy and learning how security patches are reported in a best practice situation.  As well as finally after it feels like forever get the Microsoft Eval Centre available again so that I could finally provision a Lab I have wanted to do for weeks on MECM and other MS management software.
+
+Off to the long weekend I go. Have a good one y'all!
