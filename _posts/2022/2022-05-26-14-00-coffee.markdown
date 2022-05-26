@@ -4,6 +4,7 @@ title: Coffee and Contemplation - May 26, 2022
 date: 2022-05-26 14:00:00 -0400
 tags: []
 ---
+
 Well after 3 days of no power and another day just getting life back to normal with power, I'm back!  Busy day ahead for work.  Actually have to go to the office.  Hardware still needs that physical touch!  Took a walk yesterday and I cannot believe the number of Birch trees that broke in the storm.  Always sad to see something like that.
 
 Well back in the saddle.  Hope all is well out there.  Starting to get excited about WWDC.  With the announcement of new training and certifications last week [Link](https://www.apple.com/newsroom/2022/05/apple-introduces-new-professional-training-to-support-growing-it-workforce/) I am really excited to see what Apple has in store for Management of systems coming up.
