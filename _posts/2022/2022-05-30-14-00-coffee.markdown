@@ -1,0 +1,27 @@
+---
+layout: post
+title: Coffee and Contemplation - May 30, 2022
+date: 2022-05-30 14:00:00 -0400
+tags: []
+---
+After a weekend of having power and not having to figure out how to make coffee without power, it was a nice quiet weekend.  But with all the rumors on what is coming next week at WWDC, it got me to thinking about all the rumors and what it means for Apple.
+
+The rumors of the launch of AR/VR headset and even a new search engine today [Link][90b6375f] this is going to be one eventful WWDC.  I always expect the simple stuff, new OS's.  Clean up the bad, add some good.  But if WWDC is the launch of AR/VR for Apple on a bigger scale (VR and AR have been around a while in Apple SDK's for iOS) this will be a different product for Apple than ever before.
+
+I have seen it over the past few years.  The Apple I got started with has changed.  Responding to Open letters about products, commenting on unreleased products and in general pulling back the curtain a little more than what I am used to.
+
+With the potential release of these rumors next week, Apple seems to be becoming more of a consumer products company than ever before.  I always liked the idea of Apple making "bicycles for the mind".  They have always done that so well.  The hard part is figuring out the next bicycle.
+
+Apple has had a great run in the iOS era.  iPad and iPhone changed the world.  They truly put a dent in the universe. So my question is AR/VR the next bicycle?
+
+If we look at Apple's history of being the last to the party on technology, I think it just might be.  Oculus, Vive, Sony, Microsoft all have AR/VR products of a kind, but in order for it to be an Apple experiece there needs to be some things that are more than the tech.  There needs to be a story, it needs to make people's lives better and easier. I'm not sure if AR/VR is there yet, or will ever be.
+
+Do I like the Sci-Fi idea of having glasses that will show me real-time information in the real world?  The 12 year old in me says yes, but the adult makes me think of VR in the 90's.  Was it cool, yes!  Was the tech there, kinda.  Was the story about how it will change my life, no.
+
+That is what I will be interested in, when the launch happens.  What is the story.  What will AR/VR do in my everyday life?  Apple has made niche products, AppleTV in the early days made little to no sense, then Video streaming came along.  AR/VR might be a long game for them to be ready just in case.
+
+I had the same feelings about the Watch when Apple released it.  Now I feel wierd without the Watch on my wrist.  But I had to get one (I won my first Apple Watch) to see the utility.  Should be a great show next week.
+
+Keep being Awesome!
+
+  [90b6375f]: https://www.iphoneincanada.ca/apple/apple-expected-to-share-details-of-new-search-engine-at-wwdc-2022/ "Link"
