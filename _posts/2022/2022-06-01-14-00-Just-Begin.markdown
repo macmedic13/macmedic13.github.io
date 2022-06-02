@@ -1,0 +1,24 @@
+---
+layout: post
+title: Just Begin! - June 2, 2022
+date: 2022-06-02 14:00:00 -0400
+tags: [planning, IT, opinion]
+---
+So I actually have something to write about today!  That's exciting for me!  I want to talk about patience and planning and working the problem.  In IT, so many projects become doing things differently because it's faster or better.  How often do we make a decision because it will be faster?  Pretty often I will argue.  I think sometimes the conversation should be about better, not faster.
+
+While working in large organizations, it's hard to keep everyone happy.  Every user is separate and distinct in how they use the tools that are provided. The challenge for the supporting structures of a company, like IT is to create a service that responds to the individual needs effectively.
+
+I have always tried to create an environment in that each interaction is important.  When the client has a need, we will respond to them in the order they are received and work the problem one by one.  This comes from years of working in the TV/Film business. We are always working to the idea of maximizing how much we accomplish for the production.  There is extensive planning and work done before you are onset and when you are onset it is all about getting the cameras rolling and making sure the production runs smoothly.
+
+We deal with each problem as it comes up, but we work and plan to reduce the number of problems as we go. Unfortunately that is not always the way in a corporate or even everyday culture.  I know that things break and will not function as predicted.  So I accept that is going to happen.  From then on, I am working to limit these interruptions and troubles to make the day pass smoother.
+
+But what is most critically important in understanding and planning for the inevitable that will happen.  Make it simple to recover.  Work the problem. That is why I link to the video I do in my [About][827208f0]
+ page. Just begin.  Work the problem as an individual one, no emotion, no blame, no root cause analysis.  Work the problem and figure out why later when you have time.  Sometimes the why just happens as a natural process of working the problem.  But it is important to deal with the issue in front of you, then look at what can be done better in the post mortem.
+
+ The other major issue in a corporate culture that some need to remember is that the request you are making is being added to all the other requests being made.  That means that even though your problem is affecting you, there are others with problems out there.  Remember that.  Your issue is important, but it is one of many that the group is working on.  So patience as people work to solve it. Remember that the person on the other end of the ticket or phone is a person with feelings and struggles too.  We are all working to get things done in our life and in our work.  Sometimes we get tunnel vision.  Take a moment and think about the others.  Stop and feel on your own before projecting that out.
+
+ If someone is projecting that out at you, try to feel where they are coming from or at the very least acknowledge the frustration. I know this is easy to write. I am guilty of it as well. What is important though is learning constantly from the interactions you have.
+
+ Keep being awesome!
+
+  [827208f0]: https://www.macview.org/about/ "Just Begin"

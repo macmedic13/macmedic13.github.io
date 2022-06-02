@@ -1,9 +1,0 @@
----
-layout: post
-title: Coffee and Contemplation - June 1, 2022
-date: 2022-06-01 14:00:00 -0400
-tags: []
----
-OK, so I lied.  No big post today.  It is a quiet week for stuff.  WWDC is going to be the big news.  Stay tuned for my hot takes from that.
-
-Meanwhile, keep being awesome! 
