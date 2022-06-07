@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Coffee and Contemplation - June 6, 2022
-date: 2022-06-06 11:00:00 -0400
+title: WWDC Reaction - June 7, 2022
+date: 2022-06-07 11:00:00 -0400
 tags: []
 ---
-WWDC is this week.  Apple trotting out all the new for the next year. What am I hoping for? Nothing specific right now.  There is speculation all over the place about the changes coming to the iPadOS and multitasking interface.  But I always like to see today as a new beginning.
+WWDC never fails to show the world where computing is going.  All the updates to the OS's are dynamite.  The iPadOS update alone is amazing.  Allowing people to use the device as an iPad or a desktop machine now.  Great work by Apple to upgrade the functionality but keep the essence of the iPad intact.
 
-Apple has always brought the best to market.  Not necessarily first, but really thinking through the idea and then releasing it.  There are always mis-steps (Magic Mouse Charging, Touch Bar) but they at least think it through and give it a try.
+The main complaint I am seeing is the system requirements for the new functionality and the dropping of everything basically before 2019.  These types of clearing out of the old happen from time to time.  It needs to happen for things to move forward. I am thinking about upgrading my gear this year.  New iPad and iPhone.  Those are my daily drivers.
 
-So at 1 PM eastern, I will be tuned in to see what is in store for the next year.
+The laptop is from work for me, iPad is all I need for my life.  Heck, I can do this Blog from my iPad.
 
-Enjoy it and keep being awesome!
+There is a lot more out there, but Apple is doing the thing it does.  Iterate but make it all work together and clean.
+
+Passcodes is going to be the sleeper hit of the conference I think.
+
+Keep going Apple!
+
+Keep Being Awesome Folks!
