@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meetings bloody meetings"
-date: 2023-01-01 11:00:00 -0400
+date: 2023-01-03 11:00:00 -0400
 tags: []
 ---
 I was worried I wouldn't have anything to write about.  Just wait and the internet will provide.  Saw this [story] (https://slashdot.org/story/23/01/03/1410245/shopify-tells-employees-to-just-say-no-to-meetings) and I immediately had hot takes on it but it's not in the context of is this right or wrong.  It's in the context of how teams work and whether a company as a whole should be making edicts on it. 
