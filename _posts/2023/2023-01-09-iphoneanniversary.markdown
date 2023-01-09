@@ -14,4 +14,6 @@ From there came MDM and all the Apps that continue to change the world every day
 
 Some Notes - First song in the demo.  A little Help from my friends by the Beatles.  First Video, A clip from the Office which is my favourite Jim prank on Dwight.  Thank you Apple.  We may disagree from time to time, but keep doing amazing things!
 
+Lastly, the People on stage!  Eric Schmidt, Google, Talking all about interoperability and Data services.  My how things change. Yahoo, I know, Yahoo?  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQKMoT-6XSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
