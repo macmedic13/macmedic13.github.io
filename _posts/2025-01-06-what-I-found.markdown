@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What I found January 6,2025"
-date:   2025-01-06 08:30:08 -0500
+date:   2025-01-05 15:30:08 -0500
 categories: WIF
 ---
 Welcome back to reality everyone.  Yup it's January again, time for New Years resolutions and thinking about the year to come.  These are the links that I found over the last little while that I think needed a little more attention and thought:
