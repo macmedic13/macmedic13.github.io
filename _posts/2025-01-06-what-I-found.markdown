@@ -10,7 +10,7 @@ Welcome back to reality everyone.  Yup it's January again, time for New Years re
 
 How do I feel about this?  It's Mr. Cook's money.  Do what you like, but since he is a CEO of Apple, this does create a political question.  Is it OK for paying for access to a politician?  In a word No, but since this is the real world and Mr. Cook wants to get things done.  With Trump threatening tariffs that will affected everything he needs to keep an open dialogue to power.  In the calculation, a million bucks ain't that much in the grand scheme of Mr. Cook's economic reality.  Play the game with the rules that are in place, only way to play at the current time.  Even though I am not OK with it and think it further creates the separation of Government from the masses.  He has to play it this way.
 
-[https://www.youtube.com/watch?v=P-Ibq-9wulQ](https://www.youtube.com/watch?v=P-Ibq-9wulQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-Ibq-9wulQ?si=xGOGsBcOTNhvzdXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is more a test of doing the embed of a Youtube video in a post written in Craft. 
 
